@@ -5,3 +5,6 @@ This is a simple calculator application that supports basic arithmetic operation
 
 ## How to Build and Run
 1. Clone the repository:https://github.com/Albin-7767/CalculatorProject.git
+
+#License
+This project is licensed under the MIT License.
